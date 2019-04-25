@@ -1,7 +1,7 @@
 {
   "name": "react-avatar-edit",
   "version": "0.8.2",
-  "description": "ReactJS component to upload, crop, and preview avatars",
+  "description": "EXIF Auto Rotate, load, crop, and preview avatars",
   "main": "lib/react-avatar.js",
   "types": "src/avatar.d.ts",
   "scripts": {

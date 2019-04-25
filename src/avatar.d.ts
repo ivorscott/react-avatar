@@ -18,12 +18,22 @@ export interface Props {
   /**
    * The width of the editor
    */
-  width: number;
+  width: number | string;
 
   /**
    * The height of the editor (image will fit to this height)
    */
   height: number;
+
+  /**
+   * The image width 
+   */
+  imageWidth: number;
+
+  /**
+   * The image height
+   */
+  imageHeight: number;
 
   /**
    * The crop area radius in px (
